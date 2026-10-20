@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Keep local data out of Git by default; review dataset license before sharing.
+data/*.csv
+
+# Generated analysis outputs can be recreated by running the notebook.
+outputs/
