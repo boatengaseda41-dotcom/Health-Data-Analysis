@@ -4,6 +4,8 @@
 
 This project explores a medical insurance dataset using Python, pandas, Matplotlib, and Seaborn. The goal is to analyze medical insurance charges and identify patterns related to age, BMI, smoking status, and region.
 
+This project uses exploratory data analysis and data visualization to investigate patterns in medical insurance charges.
+
 ## Objectives
 
 - Explore and summarize the dataset.
